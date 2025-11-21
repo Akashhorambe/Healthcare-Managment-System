@@ -60,3 +60,12 @@ The goal is to make administrative decision-making easier and more data-driven.
    - Month
 4. Explore dashboards from the bottom sheet tabs  or clicking buttons
 
+---
+
+![Alt Text](1.png)
+![Alt Text](2.png)
+![Alt Text](3.png)
+![Alt Text](4.png)
+![Alt Text](5.png)
+![Alt Text](6.png)
+![Alt Text](7.png)
